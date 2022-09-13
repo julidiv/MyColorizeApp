@@ -1,9 +1,7 @@
 //
 //  MyColorizeAppApp.swift
 //  MyColorizeApp
-//
-//  Created by Alexander Golub on 13.09.22.
-//
+
 
 import SwiftUI
 
